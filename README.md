@@ -1,5 +1,6 @@
 # test1
 forclass
+<img width="510" height="213" alt="螢幕擷取畫面 2026-04-07 134546" src="https://github.com/user-attachments/assets/31fd549f-c5da-4261-84c4-d78ed17d4980" />
 Initialization:  $\hat{h}(0) = \text{zeros}(p)$
 
 Computation:  For $n = 0, 1, 2, \ldots$
@@ -21,4 +22,4 @@ $$
 \frac{\mu e^{*}(n)\mathbf{x}(n)}
 {\mathbf{x}^{H}(n)\mathbf{x}(n)}
 $$
-<img width="510" height="213" alt="螢幕擷取畫面 2026-04-07 134546" src="https://github.com/user-attachments/assets/31fd549f-c5da-4261-84c4-d78ed17d4980" />
+
